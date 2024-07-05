@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express":"latest",
-    "ejs":"latest"
+    "ejs":"latest",
+    "body-parser": "latest",
+    "@aws-sdk/client-bedrock-runtime": "latest"
   }
 }
